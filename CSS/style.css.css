@@ -151,9 +151,10 @@ h1{font-family: 'Josefin Sans', sans-serif;}
 
 .pra{
     display:flex;
+    width: flex;
     margin-left: 10%;
     column-gap: 30%;
-    font-size: 2cqi;
+    font-size: 1cqi;
     overflow:scroll;
 }
 
