@@ -147,7 +147,7 @@ h1{font-family: 'Josefin Sans', sans-serif;}
 
 .pra{
     display: flex;
-    width:960px;
+    width:fit-content;
     margin-left: 10%;
     font-size:130% ;
     column-gap: 40%;
