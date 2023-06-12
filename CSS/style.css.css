@@ -136,8 +136,8 @@ h1{font-family: 'Josefin Sans', sans-serif;}
 }
 
 .section3{
-    height: fit-content;
-    width: fit-content;
+    height: flex;
+    width: flex;
     margin-top: 4%; 
     margin-bottom: 4%;
     padding-bottom: 2%;  
